@@ -1,0 +1,28 @@
+CSS: Cascading Style Sheet
+    CSS is designed to enable the separaton of presentation and content. We can implement layouts, colors and fonts. This can provide improvement on content accessibility. 
+
+MEAN Stack:
+    This term is meant for people who have ability to work in all technologies. backend and front end. MEAN stands for, Mongo DB, Express.JS, Angular.js, and Node JS
+
+MVVM: Model-view-viemodel
+    MVVM is an architectural pattern. It shows hwo we can separate GUI from the business logic (backend). 
+    Mode: domain Model
+    View: MVC as in Model View Controller. View is teh structure, layout and appearance of what user sees on the screen. 
+    View Model: the view model is an abstraction of the view exposing public properites and commands
+
+Material:
+    This is a kid of design to create UI components. It is developed by Google in 2014. It is more or less card like motifs. It uses lot of grid based layouts.
+
+Bootstrap:
+    Similar to Material design. Bootstrap seem to be a UI-design to create components. It was developed by couple of architects and Twitter. there is multiple version of Bootstrap out there.
+
+RESTful:
+    REST stands for Rreprenstational State Transfer. What I understand is that this is how many RESTful APIs are created. These APIs and specific operations, CRUD (Create, Read, Update, Delete) operations. Which is what makes a RESTful API.
+
+SOA: Service Oriented architecture
+
+
+NPM: Node package manager
+    This is how Node components are distributed easily across multiple platforms. This is similar to Yum for Linux. NPM is widely pouplar and very easy to use. 
+
+Webpack
