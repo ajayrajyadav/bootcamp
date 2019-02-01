@@ -1,9 +1,48 @@
-body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
+h1.center {
+  text-align: center;
+}
+p.blue {
+  color: blue;
+}
+p.red {
+  color: red;
+}
+p.green {
+    color: green;
+}
+
+p.orange {
+    color: orange;
+}
+
+p.font20 {
+    font-size: 20px;
+}
+
+p.font8 {
+    font-size: 8px;
+}
+
+p.center {
+    text-align: center;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.fontVerdana {
+    font-family: verdana;
+}
+
+p.styledFont {
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bolder;
+    color: midnightblue;
+}
+
+img {
+    border: 10px solid black;
+    border-radius: 8px;
   }
