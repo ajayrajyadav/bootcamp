@@ -2,32 +2,32 @@ Checklist:
 Installations
     Google Chrome: Installed
     ScreenCastify
-        Installed:
+        Installed: 
         Configured:
     Slack
-        Installed
-        Configured
-        Channel Added
+        Installed: Yes
+        Configured: Yes
+        Channel Added: Yes
     VS Code
-        Installed: Checked
+        Installed: Yes
         Plugins: 
-            Open In Browser:
-            Terminal: Checked
+            Open In Browser: Yes
+            Terminal: Yes
     xCode
-        Installed: Checked
-        configured: Checked
+        Installed: Yes
+        configured: Yes
     Heroku ToolBelt
-        Installed:
-        configured:
+        Installed: Yes
+        configured:Yes
     HomeBrew:
-        Installed: Checked
+        Installed: Yes
     NodeJS:
-        Installed: Checked
+        Installed: Yes
     MAMP:
         Installed:
     SSH Key to Github
-        installed: Checked
-        set Global Git Username: 
-        set email address for all repo:
+        installed: Yes
+        set Global Git Username:  Yes
+        set email address for all repo:Yes
         
 
