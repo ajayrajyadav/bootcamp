@@ -1,0 +1,9 @@
+div.container{
+
+}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
